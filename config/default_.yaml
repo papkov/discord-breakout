@@ -1,0 +1,3 @@
+token: place-your-token-here
+ffmpeg: C:/ffmpeg/bin/ffmpeg.exe
+lobby_channel: __breakout_lobby
